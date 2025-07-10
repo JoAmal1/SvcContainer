@@ -1,4 +1,4 @@
-name: Simple DB Test
+name: DB Test Script
 
 on: [push]
 
